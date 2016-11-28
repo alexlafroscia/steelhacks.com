@@ -8,3 +8,5 @@ twitter_username: steelhacks
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-coffeescript
